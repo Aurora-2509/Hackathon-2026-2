@@ -1,0 +1,251 @@
+{
+  "source": "https://github.com/xthan/polyvore-dataset.git",
+  "seed": 42,
+  "filtered_outfits": {
+    "train": 16806,
+    "valid": 1265,
+    "test": 2655
+  },
+  "pairs": {
+    "train": 100000,
+    "valid": 9340,
+    "test": 12000
+  },
+  "parameters": 3137,
+  "history": [
+    {
+      "epoch": 1,
+      "validation_auc": 0.5308071016878431,
+      "loss": 0.7090538783194559
+    },
+    {
+      "epoch": 2,
+      "validation_auc": 0.546437647015668,
+      "loss": 0.6919208688153716
+    },
+    {
+      "epoch": 3,
+      "validation_auc": 0.5557638853862414,
+      "loss": 0.6879020316346378
+    },
+    {
+      "epoch": 4,
+      "validation_auc": 0.5610464305856784,
+      "loss": 0.6855518468746898
+    },
+    {
+      "epoch": 5,
+      "validation_auc": 0.5645084804827387,
+      "loss": 0.6839506459163824
+    },
+    {
+      "epoch": 6,
+      "validation_auc": 0.5674101857498544,
+      "loss": 0.6827494175975244
+    },
+    {
+      "epoch": 7,
+      "validation_auc": 0.5695154959672428,
+      "loss": 0.6818043306902365
+    },
+    {
+      "epoch": 8,
+      "validation_auc": 0.5711616129194962,
+      "loss": 0.6810305767879361
+    },
+    {
+      "epoch": 9,
+      "validation_auc": 0.5725924507884396,
+      "loss": 0.6803414115495326
+    },
+    {
+      "epoch": 10,
+      "validation_auc": 0.5736571078779764,
+      "loss": 0.6797507342862282
+    },
+    {
+      "epoch": 11,
+      "validation_auc": 0.5745782455786399,
+      "loss": 0.6792130571047988
+    },
+    {
+      "epoch": 12,
+      "validation_auc": 0.5752136054546538,
+      "loss": 0.6787287828304386
+    },
+    {
+      "epoch": 13,
+      "validation_auc": 0.5755270783946005,
+      "loss": 0.6782948508119796
+    },
+    {
+      "epoch": 14,
+      "validation_auc": 0.5761321295434433,
+      "loss": 0.6779047608349031
+    },
+    {
+      "epoch": 15,
+      "validation_auc": 0.5766456584238544,
+      "loss": 0.6775174720672403
+    },
+    {
+      "epoch": 16,
+      "validation_auc": 0.5770758039149154,
+      "loss": 0.6771643676650106
+    },
+    {
+      "epoch": 17,
+      "validation_auc": 0.5775765398529957,
+      "loss": 0.6768481367052811
+    },
+    {
+      "epoch": 18,
+      "validation_auc": 0.5779469161672528,
+      "loss": 0.6765620497700003
+    },
+    {
+      "epoch": 19,
+      "validation_auc": 0.5781707468052033,
+      "loss": 0.6763096898406281
+    },
+    {
+      "epoch": 20,
+      "validation_auc": 0.5785341764142162,
+      "loss": 0.6760640914460065
+    },
+    {
+      "epoch": 21,
+      "validation_auc": 0.5788169967306925,
+      "loss": 0.6758339588979425
+    },
+    {
+      "epoch": 22,
+      "validation_auc": 0.5791516536826709,
+      "loss": 0.6755953453877559
+    },
+    {
+      "epoch": 23,
+      "validation_auc": 0.5796127498406614,
+      "loss": 0.675377534337112
+    },
+    {
+      "epoch": 24,
+      "validation_auc": 0.5800846901952872,
+      "loss": 0.6751853204056881
+    },
+    {
+      "epoch": 25,
+      "validation_auc": 0.5802594582945495,
+      "loss": 0.67500680992769
+    },
+    {
+      "epoch": 26,
+      "validation_auc": 0.580429251360683,
+      "loss": 0.6748347300243425
+    },
+    {
+      "epoch": 27,
+      "validation_auc": 0.5805465429251361,
+      "loss": 0.6746571875416586
+    },
+    {
+      "epoch": 28,
+      "validation_auc": 0.580661702332534,
+      "loss": 0.6744899402522585
+    },
+    {
+      "epoch": 29,
+      "validation_auc": 0.5808681318177441,
+      "loss": 0.6743285647527402
+    },
+    {
+      "epoch": 30,
+      "validation_auc": 0.5808372728564943,
+      "loss": 0.6741706574634266
+    },
+    {
+      "epoch": 31,
+      "validation_auc": 0.5811086299629967,
+      "loss": 0.6740004444112453
+    },
+    {
+      "epoch": 32,
+      "validation_auc": 0.5814022944761084,
+      "loss": 0.6738377066865505
+    },
+    {
+      "epoch": 33,
+      "validation_auc": 0.581876573325569,
+      "loss": 0.6736870912947177
+    },
+    {
+      "epoch": 34,
+      "validation_auc": 0.5820987074084434,
+      "loss": 0.6735588877438634
+    },
+    {
+      "epoch": 35,
+      "validation_auc": 0.5823250599525882,
+      "loss": 0.673422559784818
+    },
+    {
+      "epoch": 36,
+      "validation_auc": 0.5824007859176759,
+      "loss": 0.6732862426880166
+    },
+    {
+      "epoch": 37,
+      "validation_auc": 0.5826454108185191,
+      "loss": 0.6731592058664642
+    },
+    {
+      "epoch": 38,
+      "validation_auc": 0.5830620755746507,
+      "loss": 0.6730440454537322
+    },
+    {
+      "epoch": 39,
+      "validation_auc": 0.5831645566718175,
+      "loss": 0.6729281691154443
+    },
+    {
+      "epoch": 40,
+      "validation_auc": 0.5833528972116888,
+      "loss": 0.6728109926958425
+    }
+  ],
+  "evaluation": {
+    "valid": {
+      "roc_auc": 0.5833528972116888,
+      "accuracy": 0.5604925053533191
+    },
+    "test": {
+      "roc_auc": 0.5852741944444445,
+      "accuracy": 0.5575
+    }
+  },
+  "limitations": [
+    "Text and category only; no image features.",
+    "Random mismatches are synthetic negatives, not human judgments.",
+    "Original outfit splits may share products; this is not an item-disjoint evaluation.",
+    "Pair metrics use synthetic negatives; official benchmarks are reported separately.",
+    "Compatibility scores are ranking signals, not calibrated probabilities."
+  ],
+  "official_benchmarks": {
+    "compatibility": {
+      "evaluated": 7076,
+      "total": 7076,
+      "skipped": 0,
+      "roc_auc": 0.6328564288036411,
+      "accuracy_at_0_5": 0.5750423968343698
+    },
+    "fill_in_blank": {
+      "evaluated": 3076,
+      "total": 3076,
+      "skipped": 0,
+      "accuracy": 0.36866059817945385,
+      "chance": 0.25
+    }
+  },
+  "source_commit": "ba8aa71b6589e8920d172a8b5df84746be724d00"
+}
